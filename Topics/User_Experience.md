@@ -24,11 +24,24 @@ ___Color Theory___
 ___Responsive Design___
 - [Responsive Design](https://devrix.com/tutorial/important-responsive-design/): Demonstrates important and benefits of responsive design, flexiblity they provide, easiblity for the consumers upon making the said software. 
 
-### Additional UX
+### Accessiblity Features
 
 There are some things that have become a crucial part in making a software: Universal Design Principles. 
-___Accessiblity Features___
+___The 7 Universal Design Principles___
 - [Universal Design Principles](https://www.buffalo.edu/access/help-and-support/topic3/universaldesignprinciples.html): This article provides the 7 Universal Design Principle that makes a software accessible to all users, which plays a important role in diversifying the User Experience. 
+
+### Ways to Improve User Experience
+
+1. Adding whitespace: By adding whitespace such as paddings around contents gives more "breathing room" for users and increases the readability and attractiveness of your website or app. Always have the primary idea stand out and eliminate irrelevant information and page clutters.
+
+2. Keep site pages consistent: Keeping your styles consistent includes font choices, button styles, designm elements, headding sizes etc. This will increase the aesthetic of your website and professionality. Messy design will cause confusion and tiredness for the visitors. Color psychology is a great tool to consider when designing your website style.
+
+3. Responsiveness of website: Visitors will be visiting your website from various devices, thus it is important to ensure that your website is readable and consistent on any sized screens. 
+
+Citations:
+- [resource 1](https://blog.shift4shop.com/improve-website-user-experience)
+- [resource 2](https://themeisle.com/blog/improve-user-experience/#gref)
+
 
 ### Helpful Courses
 
