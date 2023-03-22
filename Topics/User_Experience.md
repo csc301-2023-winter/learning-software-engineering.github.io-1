@@ -30,6 +30,19 @@ There are some things that have become a crucial part in making a software: Univ
 ___Accessiblity Features___
 - [Universal Design Principles](https://www.buffalo.edu/access/help-and-support/topic3/universaldesignprinciples.html): This article provides the 7 Universal Design Principle that makes a software accessible to all users, which plays a important role in diversifying the User Experience. 
 
+### Ways to Improve User Experience
+
+1. Adding whitespace: By adding whitespace such as paddings around contents gives more "breathing room" for users and increases the readability and attractiveness of your website or app. Always have the primary idea stand out and eliminate irrelevant information and page clutters.
+
+2. Keep site pages consistent: Keeping your styles consistent includes font choices, button styles, designm elements, headding sizes etc. This will increase the aesthetic of your website and professionality. Messy design will cause confusion and tiredness for the visitors. Color psychology is a great tool to consider when designing your website style.
+
+3. Responsiveness of website: Visitors will be visiting your website from various devices, thus it is important to ensure that your website is readable and consistent on any sized screens. 
+
+Citations:
+- [resource 1](https://blog.shift4shop.com/improve-website-user-experience)
+- [resource 2](https://themeisle.com/blog/improve-user-experience/#gref)
+
+
 ### Helpful Courses
 
 There are many courses related to User Experience. This includes the U of T Course [The Design of Interactive Computational Media](https://artsci.calendar.utoronto.ca/course/csc318h1) which is highly recommended if interested in this topic. [The Design of Interactive Computational Media](https://artsci.calendar.utoronto.ca/course/csc318h1) expands on the work done before coding projects. For example, one of the projects is testing how users would interact with a prototype of a UI and modifying it so that the UX is better for the user.
