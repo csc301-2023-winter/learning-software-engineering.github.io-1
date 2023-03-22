@@ -24,10 +24,10 @@ ___Color Theory___
 ___Responsive Design___
 - [Responsive Design](https://devrix.com/tutorial/important-responsive-design/): Demonstrates important and benefits of responsive design, flexiblity they provide, easiblity for the consumers upon making the said software. 
 
-### Additional UX
+### Accessiblity Features
 
 There are some things that have become a crucial part in making a software: Universal Design Principles. 
-___Accessiblity Features___
+___The 7 Universal Design Principles___
 - [Universal Design Principles](https://www.buffalo.edu/access/help-and-support/topic3/universaldesignprinciples.html): This article provides the 7 Universal Design Principle that makes a software accessible to all users, which plays a important role in diversifying the User Experience. 
 
 ### Ways to Improve User Experience
